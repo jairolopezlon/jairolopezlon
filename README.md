@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Desarrollador web con 2 años de experiencia, en los que he trabajado realizando integraciones de servicios RESTful API, construcción de sitios web dinámicos y recientemente en el desarrollo de una aplicación web “No Code” para la creación de sitios web.
+
+Adicionalmente cuento con +8 años de experiencia en empresas relacionadas a la salud y la cadena de suministro de medicamentos, en los que desarrolle un pensamiento sistémico que permitieron la adaptación, mejoramiento y optimización de diferentes procesos, por medio de la implementación de herramientas desarrolladas.
+
+contacta me *[Linkedin](https://www.linkedin.com/in/jairolopezlon/)*.
+
 <!--
 **jairolopezlon/jairolopezlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
