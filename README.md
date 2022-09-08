@@ -4,7 +4,7 @@ Desarrollador web con 2 años de experiencia, en los que he trabajado realizando
 
 Adicionalmente cuento con +8 años de experiencia en empresas relacionadas a la salud y la cadena de suministro de medicamentos, en los que desarrolle un pensamiento sistémico que permitieron la adaptación, mejoramiento y optimización de diferentes procesos, por medio de la implementación de herramientas desarrolladas.
 
-contacta me *[Linkedin](https://www.linkedin.com/in/jairolopezlon/)*.
+contáctame *[Linkedin](https://www.linkedin.com/in/jairolopezlon/)*.
 
 <!--
 **jairolopezlon/jairolopezlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
