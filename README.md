@@ -2,9 +2,11 @@
 
 Soy desarrollador frontend con 3 años de experiencia, con la visión para proyectar ideas y transformar en código los requerimientos de negocios para hacerlos realidad.
 He trabajo en proyectos abarcando parte de backend, entre los que destaco:
-•	Crear una web app “no code” para generar paginas web con solo "drag and drop”.
-•	Integrar el servicio de catastro de España para validar direcciones durante el checkout de pagos de un ecommerce.
-•	la creación de una app Android en react native.
+
+- Crear una web app “no code” para generar paginas web con solo "drag and drop”.
+- Integrar el servicio de catastro de España para validar direcciones durante el checkout de pagos de un ecommerce.
+- la creación de una app Android en react native.
+
 Aparte, cuento con 8 años de experiencia en el sector salud y logístico de medicamentos, durante los cuales desarrolle un pensamiento sistémico que permitieron la adaptación, mejoramiento y optimización de diferentes procesos
 
 
