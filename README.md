@@ -1,8 +1,12 @@
 ## Hi👋, I'm Jairo Lopez L. a **Frontend developer**
 
-Desarrollador web con 3 años de experiencia, en los que he trabajado realizando integraciones de servicios RESTful API, construcción de sitios web dinámicos y recientemente en el desarrollo de una aplicación web “No Code” para la creación de sitios web en Fortpress.app [Fortpress.app](https://www.fortpress.app) con solo drag and drop.
+Soy desarrollador frontend con 3 años de experiencia, con la visión para proyectar ideas y transformar en código los requerimientos de negocios para hacerlos realidad.
+He trabajo en proyectos abarcando parte de backend, entre los que destaco:
+•	Crear una web app “no code” para generar paginas web con solo "drag and drop”.
+•	Integrar el servicio de catastro de España para validar direcciones durante el checkout de pagos de un ecommerce.
+•	la creación de una app Android en react native.
+Aparte, cuento con 8 años de experiencia en el sector salud y logístico de medicamentos, durante los cuales desarrolle un pensamiento sistémico que permitieron la adaptación, mejoramiento y optimización de diferentes procesos
 
-Adicionalmente cuento con +8 años de experiencia en empresas relacionadas a la salud y la cadena de suministro de medicamentos, en los que desarrolle un pensamiento sistémico que permitieron la adaptación, mejoramiento y optimización de diferentes procesos, por medio de la implementación de herramientas desarrolladas.
 
 ### contáctame *[Linkedin](https://www.linkedin.com/in/jairolopezlon/)*.
 
