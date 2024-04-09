@@ -1,17 +1,14 @@
 ## Hi👋, I'm Jairo Lopez L. a **Frontend developer**
 
-Soy desarrollador frontend con 3 años de experiencia con conocimientos de backend, con la visión para proyectar ideas y transformar los requerimientos de negocios en código para hacerlos realidad.
-He trabajo en proyectos entre los que destaco:
+I am a software developer with 3 years of experience with frontend and backend knowledge, with the vision to project ideas and transform business requirements into code to make them a reality.
+I have worked on projects among which I stand out:
+- Build “no code” web app to generate web pages with just “drag and drop”.
+- Integrate the Spain cadastre service to validate addresses during the payment checkout
+of an ecommerce.
+- Migrate a complete web into an Android app in React native.
+In addition, I have 8 years of experience in the health and medicine logistics sector, during which I developed systemic thinking that allowed the adaptation, improvement, and optimization of different processes.
 
-- Crear una web app “no code” para generar paginas web con solo "drag and drop”.
-- Integrar el servicio de catastro de España para validar direcciones durante el checkout de pagos de un ecommerce.
-- la creación de una app Android en React Native.
-
-Además, cuento con 8 años de experiencia en el sector salud y logístico de medicamentos, durante los cuales desarrolle un pensamiento sistémico que permitieron la adaptación, mejoramiento y optimización de diferentes procesos
-
-
-
-### contáctame *[Linkedin](https://www.linkedin.com/in/jairolopezlon/)*.
+### contact me *[Linkedin](https://www.linkedin.com/in/jairolopezlon/)*.
 
 <!--
 **jairolopezlon/jairolopezlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
